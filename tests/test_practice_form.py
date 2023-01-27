@@ -1,6 +1,5 @@
 from datetime import date
 import allure
-
 from demoqa_tests.model.data.user import User
 from demoqa_tests.model.pages.practice_form import PracticePage
 
